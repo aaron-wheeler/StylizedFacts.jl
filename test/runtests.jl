@@ -2,5 +2,5 @@ using StylizedFacts
 using Test
 
 @testset "StylizedFacts.jl" begin
-    # Write your tests here.
+    1 == 1
 end
